@@ -1,20 +1,20 @@
 ---
 
-### Hi there 👋 I’m AUSTIN JOSE
-
+### Say 👋 to AUSTIN JOSE
+<Developing Tomorrow,Today! />
 ---
 
 #### 🛠️ I'm skilled in:
-- 💻 React JS | Node JS | MongoDB | Java: DSA, OOPS
+- 💻 React JS | Node JS | MongoDB | {...more}
 
 #### 👀 I’m interested in:
 - 🌐 Diving deep into software development
 - 🚀 Exploring and mastering new technologies
 
-#### 🌱 I’m currently working and learning:
+#### 🌱 I’m currently working:
 - 🔥 Next.js
-- ⚛️ Advanced concepts in React JS and Node JS
-- ☕ Java programming language
+- ⚛️ Learning Advanced concepts in React JS and Node JS | Backend
+- ☕ Yet to start Networking, DevOps ...
 
 ---
 
