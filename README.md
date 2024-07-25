@@ -11,10 +11,10 @@
 - 🌐 Diving deep into software development
 - 🚀 Exploring and mastering new technologies
 
-#### 🌱 I’m currently working:
-- 🔥 Next.js
+#### 🌱 I’m currently working in:
+- 🔥 Next.js, SQLite
 - ⚛️ Learning Advanced concepts in React JS and Node JS | Backend
-- ☕ Yet to start Networking, DevOps ...
+- ☕ Yet to start DBMS, Networking, DevOps ...
 
 ---
 
