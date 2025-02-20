@@ -3,10 +3,9 @@
 ### Say 👋 to AUSTIN JOSE
 <Developing Tomorrow,Today! />
 ---
-On the way from Dev. to Eng.
 
 #### 🛠️ I'm skilled in:
-- 💻 React JS | Node JS | MongoDB | {...more}
+- 💻 React JS | Node JS
 
 #### 👀 I’m interested in:
 - 🌐 Diving deep into software development
