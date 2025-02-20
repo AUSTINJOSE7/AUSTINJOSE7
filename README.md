@@ -13,8 +13,6 @@
 
 #### 🌱 I’m currently working in:
 - 🔥 Next.js
-- ⚛️ Learning Advanced concepts in React JS and Node JS | Backend
-- ☕ Yet to start DBMS, Networking, DevOps ...
 
 ---
 
