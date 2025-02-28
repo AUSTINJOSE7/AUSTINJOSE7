@@ -1,7 +1,7 @@
 ---
 
 ### 👋 Hey, AUSTIN JOSE here !
-<Developing Tomorrow,Today! />
+<Developing Tomorrow, Today! />
 ---
 ### Living by Faith,  
 ### Aus 10
